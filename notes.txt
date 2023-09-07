@@ -1,0 +1,31 @@
+HTML-Hyper Text Markup Language - HTML5
+-Structure / outline of webpage
+
+Everything in HTML is achieved by tags
+
+<tagname> -- open tag
+</tagbame>-- closing tag
+First HTML:
+
+<html>
+    <head>
+         <title> My page</title>
+    </head>
+     <body>
+         <h1> hello <p>world</p></h1>
+             <p></p>
+     </body>
+</html>
+
+
+VS code -  Extensions -liver server and prettier
+
+git - download -- software/version control system which tracks our code
+
+create an account - github.com
+Github Desktop
+
+Anchor tag for hyper links -  <a href="url" target="_blank">something </a>
+void elements/empty elements/self closing tags like <br> or <br/>
+
+Hyperlinks-
